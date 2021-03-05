@@ -1,1 +1,5 @@
+# ipython notebook checkpoints
 data/side_effects/scripts/.ipynb_checkpoints/
+
+# emacs backups
+*~
